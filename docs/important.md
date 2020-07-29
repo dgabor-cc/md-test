@@ -2,4 +2,4 @@
 
 **THIS DOCUMENT IS VERY IMPORTANT**
 
-![important image](../img/important.jpg)
+![important image](../img/Important.jpg)
