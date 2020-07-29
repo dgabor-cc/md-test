@@ -9,4 +9,4 @@
 
 ## Other stuff
 
-[this is a link to google](google.com)
+[this is a link to google](https://www.google.com)
