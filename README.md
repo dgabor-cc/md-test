@@ -6,3 +6,7 @@
 - creating branches
 - pull requests
 - resolving a merge conflict
+
+## Other stuff
+
+[this is a link to google](google.com)
